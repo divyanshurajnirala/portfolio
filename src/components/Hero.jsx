@@ -97,7 +97,7 @@ export default function Hero() {
 
         {/* Resume */}
         <a
-          href="/resume.pdf"
+          href="https://drive.google.com/file/d/1x4GnxsV9fqb_EBEMn8GBZjQAQpV2mGjJ/view?usp=sharing"
           target="_blank"
           className="px-6 py-3 border border-purple-500 text-purple-400 rounded-lg hover:bg-purple-500 hover:text-white transition"
         >
